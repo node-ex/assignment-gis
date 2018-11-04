@@ -20,8 +20,17 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**:
 
-**Data source**: `<fill in>`
+Allows to:
+
+1. Display all greenfield objects in a selected Bratislava district
+2. Calculate a total area of all greenfield objects in a Bratislava district
+3. Calculate an area of a selected greenfield object
+4. Find the nearest public transport stop in the vicinity of a selected greenfield object
+
+This application may be useful for people interested in greenfield objects in Bratislava, for example students of Landscape architecture. 
+
+**Data source**: Data provided with https://hub.docker.com/r/fiitpdt/postgis/ .
 
 **Technologies used**: `<fill in>`

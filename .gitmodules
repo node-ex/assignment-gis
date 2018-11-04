@@ -1,0 +1,12 @@
+[submodule "service-pdt-server"]
+	path = service-pdt-server
+	url = git@github.com:node-ex/service-pdt-server.git
+	branch = master
+[submodule "service-pdt-client"]
+	path = service-pdt-client
+	url = git@github.com:node-ex/service-pdt-client.git
+	branch = master
+[submodule "common-postgis"]
+	path = common-postgis
+	url = git@github.com:node-ex/common-postgis.git
+	branch = master
